@@ -1,0 +1,11 @@
+{
+    "name": "Login and signup extension",
+    "version": "1.0",
+    "description": "This is my first Chrome extension",
+   "manifest_version" : 3,
+   "action" : {
+
+    "default_popup": "popup.html"
+    
+   }
+}
